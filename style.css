@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: bisque;
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
